@@ -1,0 +1,108 @@
+pi@blueboat-sim:~ $ cat .bash_history 
+ifconfig
+passwd
+ls
+ifconfig
+sudo service networking restart
+wpa_cli 
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf 
+sudo service networking restart
+ifconfig
+sudo ifconfig wlan0 down
+sudo ifconfig wlan0 up
+ifconfig
+arp -a
+sudo raspi-config 
+ifconfig
+sudo raspi-config
+ls
+ifconfig
+sudo service networking 
+sudo service networking reload 
+ifconfig
+wpa_action 
+wpa_supplicant 
+ifconfig
+sudo raspi-config 
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf 
+sudo reboot
+ifconfig
+sudo raspi-config
+ifconfig
+sudo raspi-config 
+[A
+sudo raspi-config 
+ls
+ifconfig
+curl -s https://install.zerotier.com | sudo bash
+ls
+sudo zerotier-cli join 8056c2e21c13d6ea
+sudo reboot
+exit
+ifconfig
+sudo apt update
+node
+ls -R
+#sudo reboot
+sudo  zerotier-cli status
+echo  -n 'test' |        nc 10.40.1.75             3000
+echo  -n 'test' |        nc 10.40.1.75             3001
+echo  -n 'test' |        nc 10.40.1.75             3000
+sudo raspi-config
+ls
+whoami
+exit
+ifconfig
+ip r
+arp -a
+exit
+uname -a
+sudo apt install libpcap libsodium python2.7 python-twisted
+sudo apt install libpcap-dev
+sudo apt install libpcap-dev libsodium-dev
+which python
+python --version
+sudo apt install python-twisted
+git clone https://github.com/svpcom/wifibroadcast
+git clone https://github.com/svpcom/rtl8812au
+dkms
+cd rtl8812au/
+ls
+sudo apt-get install dkms
+nano Makefile 
+sudo apt install build-essential bc libelf-dev linux-headers-'uname-r'
+uname-r
+echo 'uname-r'
+uname-r
+uname -r
+sudo apt install build-essential bc libelf-dev linux-headers-4.19.66-v7+
+sudo apt install build-essential bc libelf-dev linux-headers-4.19.66-v7\+
+sudo apt install build-essential bc libelf-dev
+sudo apt install raspberrypi-kernel{,-headers} 
+wget "https://raw.githubusercontent.com/notro/rpi-source/master/rpi-source" -O /usr/bin/rpi-source
+sudo wget "https://raw.githubusercontent.com/notro/rpi-source/master/rpi-source" -O /usr/bin/rpi-source
+sudo chmod 755 /usr/bin/rpi-source
+sudo rpi-source
+sudo apt-get install git bc bison flex libssl-dev
+sudo apt install raspberrypi-kernel-headers
+sudo wget https://raw.githubusercontent.com/notro/rpi-source/master/rpi-source -O /usr/local/bin/rpi-source && sudo chmod +x /usr/local/bin/rpi-source && /usr/local/bin/rpi-source -q --tag-update
+rpi-source
+sudo apt-get install libncurses5-dev
+make clean
+make distclean
+rpi-source --help
+sudo wget https://raw.githubusercontent.com/notro/rpi-source/master/rpi-source -O /usr/local/bin/rpi-source && sudo chmod +x /usr/local/bin/rpi-source && /usr/local/bin/rpi-source -q --tag-update
+sudo rpi-source
+rpi-source
+ls
+sudo apt install dkms
+sudo ./dkms-install.sh
+sudo modprobe 88XXau 
+sudo modinfo 88XXau 
+cd
+cat .bash_history 
+exit
+cat .bash_history 
+cd rtl8812au/
+ls
+nano necessary_steps.txt
